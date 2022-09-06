@@ -20,15 +20,5 @@
         "last_block": 0,
         "difficulty": 1,
         "difficulty24": 1
-      },
-      "Neoxa": {
-        "id": 351,
-        "tag": "NEOX",
-        "algorithm": "KawPow",
-        "block_time": "62.0",
-        "block_reward": 4250,
-        "block_reward24": 4250,
-        "last_block": 159346,
-        "difficulty": 21341.33884560343
-    }
+      }
   }
