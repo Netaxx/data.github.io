@@ -1,0 +1,34 @@
+{
+      "Ethereum": {
+        "id": 151,
+        "tag": "ETH",
+        "algorithm": "Ethash",
+        "block_time": "13.7881",
+        "block_reward": 2.0772982525977213,
+        "block_reward24": 2.0244619773538446,
+        "last_block": 15486142,
+        "difficulty": 12274737978427348,
+        "difficulty24": 12004894872747364
+      },
+      "Nicehash-Ethash": {
+        "id": 15,
+        "tag": "NICEHASH",
+        "algorithm": "Ethash",
+        "block_time": 1,
+        "block_reward": 1,
+        "block_reward24": 1,
+        "last_block": 0,
+        "difficulty": 1,
+        "difficulty24": 1
+      },
+      "Neoxa": {
+        "id": 351,
+        "tag": "NEOX",
+        "algorithm": "KawPow",
+        "block_time": "62.0",
+        "block_reward": 4250,
+        "block_reward24": 4250,
+        "last_block": 159346,
+        "difficulty": 21341.33884560343
+    }
+  }
